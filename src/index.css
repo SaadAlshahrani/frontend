@@ -1,0 +1,12 @@
+:root {
+  font-family: 'JetBrains Mono';
+}
+
+.note {
+  color: green;
+}
+
+.error {
+  color: red;
+  background: lightblue;
+}
